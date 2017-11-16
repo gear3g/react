@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# Ignore files created within the WWW folder
+www/
